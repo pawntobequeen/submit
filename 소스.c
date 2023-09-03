@@ -273,7 +273,7 @@ int main(void) {
 			}
 
 		}
-		system("pause");
+	
 		printf("} ют╢о╢ы!");
 		
 	}
